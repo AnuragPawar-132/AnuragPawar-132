@@ -1,4 +1,4 @@
-<img alt="Web Development" width="100%" height="400px" src="https://wallpaperaccess.com/full/1947431.jpg" /> 
+<img alt="Web Development" width="100%" height="300px" src="https://wallpaperaccess.com/full/1947431.jpg" /> 
 <h1 align="center">Hi 👋, I'm Anurag Pawar</h1>
 <h3 align="center">An aspiring Full Stack Web Developer. I am skilled in the MERN stack along with the DSA.</h3>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
