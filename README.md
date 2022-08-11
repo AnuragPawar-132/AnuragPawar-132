@@ -6,13 +6,13 @@
 
 - 🌱 I'm currently learning **Web Development**
 
-- 👨‍💻 My projects are available at https://portfolio-anurag-eight.vercel.app
+- 👨‍💻 My portfolio link: https://portfolio-anurag-eight.vercel.app
 
 - 💬 Ask me about **MERN stack and DSA**
 
-- 📫 Reach me at **anuragpawar.me@gmail.com**
+- 📫 Reach me at: **anuragpawar.me@gmail.com**
 
-- 📄 Here is my resume https://drive.google.com/file/d/1GrPp5I8Oy-hemlTENlCPlrQZ-R6euDDc/view
+- 📄 Here is my resume: https://drive.google.com/file/d/1GrPp5I8Oy-hemlTENlCPlrQZ-R6euDDc/view
 
 </br>
 
