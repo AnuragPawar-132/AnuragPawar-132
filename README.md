@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://classy-medovik-98f2e6.netlify.app/](https://classy-medovik-98f2e6.netlify.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-anurag-eight.vercel.app
 
 - 💬 Ask me about **MERN stack and DSA**
 
 - 📫 How to reach me **anuragpawar.me@gmail.com**
 
-- 📄 Here is my resume [https://drive.google.com/file/d/11na81a_NvbsMaQ3bgMWdqup_qFibC9sv/view](https://drive.google.com/file/d/11na81a_NvbsMaQ3bgMWdqup_qFibC9sv/view)
+- 📄 Here is my resume https://drive.google.com/file/d/1GrPp5I8Oy-hemlTENlCPlrQZ-R6euDDc/view
 
 </br>
 
