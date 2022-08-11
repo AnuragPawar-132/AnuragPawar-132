@@ -4,13 +4,13 @@
 </br>
 <img align="right" width="40%" height="auto" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Coding" />
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I'm currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at https://portfolio-anurag-eight.vercel.app
+- 👨‍💻 My projects are available at https://portfolio-anurag-eight.vercel.app
 
 - 💬 Ask me about **MERN stack and DSA**
 
-- 📫 How to reach me **anuragpawar.me@gmail.com**
+- 📫 Reach me at **anuragpawar.me@gmail.com**
 
 - 📄 Here is my resume https://drive.google.com/file/d/1GrPp5I8Oy-hemlTENlCPlrQZ-R6euDDc/view
 
