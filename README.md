@@ -32,6 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragpawar-132&show_icons=true&locale=en&layout=compact" alt="anuragpawar-132" /></p>
 </br>
+</br>
+</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragpawar-132&show_icons=true&locale=en" alt="anuragpawar-132" /></p>
 
