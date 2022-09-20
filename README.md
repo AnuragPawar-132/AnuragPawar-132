@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-anurag-eight.vercel.app/]
+- 👨‍💻 All of my projects are available at https://portfolio-anurag-eight.vercel.app/
 
 - 📝 I regularly write articles on [https://medium.com/@anudp132](https://medium.com/@anudp132)
 
